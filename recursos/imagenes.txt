@@ -1,0 +1,1 @@
+imagenes=fondo0.png-x-fondo1.png-x-fondo2.png-x-fondo3.png-x-fondo4.png-x-fondo5.png-x-fondo6.png-x-fondo7.png-x-fondo8.png-x-fondo9.png-x-fondo10.png-x-fondo11.png

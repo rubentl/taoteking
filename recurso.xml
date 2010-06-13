@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="9" width="800" height="600" framerate="30">
+    <background/>
+    <frame>
+     <library>
+        <bitmap id = "Niebla" import = "recursos/fondo0.png" />
+        <bitmap id = "TaoTeKing" import = "recursos/taoteking.png" />
+        <bitmap id = "WenTzu" import = "recursos/wentzu.png" />
+        <bitmap id = "HuaHuChing" import = "recursos/huahuching.png" />
+	<bitmap id = "Chino" import = "recursos/tao.png" />
+	<bitmap id = "Fullscr" import = "recursos/full.png" />
+     </library>
+    </frame>
+</movie>

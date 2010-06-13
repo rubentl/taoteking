@@ -1,0 +1,8 @@
+-resource recursos/taoteking.txt@texto_taoteking
+-resource recursos/wentzu.txt@texto_wentzu
+-resource recursos/huahuching.txt@texto_huahuching
+-lib TweenerHX
+-swf-lib lib.swf
+-swf-header 800:600:12:000000
+-swf9 tao.swf
+-main Tao
