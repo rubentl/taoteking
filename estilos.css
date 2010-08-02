@@ -1,0 +1,17 @@
+body {
+	background-color: #000000;
+    position: absolute; /*Posicionamiento absoluto*/
+    top: 50%; /*Desde arriba, colocar al 50% de la pantalla*/
+    left: 50%; /*Desde la izquierda, colocar al 50% de la pantalla*/
+    margin-top: -300px; /*Restamos la mitad de alto del SWF para centrarlo verticalmente*/
+    margin-left: -400px; /*Restamos la mitad de ancho del SWF para centrarlo horizontalmente*/ 
+}
+
+table {
+	border-style: none;
+	padding: 1px 1px 1px 1px ;
+	text-align: center;
+	border-spacing:  0px;
+}
+
+
